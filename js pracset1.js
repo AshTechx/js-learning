@@ -102,16 +102,19 @@ console.log(store);
 // in_put("hello guys")
 
 
-const in_put =(line) => {
-for (i=0;i<=line.length;i++){
-    if (line[i]==="a" ||
-        line[i]=== "e" ||
-        line[i]==="i" || 
-        line[i]==="o"||
-        line[i]==="u"){
-        console.log("yes"+ "=" + line[i]);
+// const in_put =(line) => {
+// for (i=0;i<=line.length;i++){
+//     if (line[i]==="a" ||
+//         line[i]=== "e" ||
+//         line[i]==="i" || 
+//         line[i]==="o"||
+//         line[i]==="u"){
+//         console.log("yes"+ "=" + line[i]);
         
-    }
-}
-}
- in_put("hello guys");
+//     }
+// }
+// }
+//  in_put("hello guys");
+
+
+
