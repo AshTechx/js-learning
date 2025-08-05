@@ -1,7 +1,7 @@
 // const variable = document.getElementById("box");
 // console.log(variable.childNodes);
 
-// const second = document.getElementById("box");
+// const second = document.getElementById("box"); // first
 // let arr = [];
 // function elements(){
 // for(let i =0;i<=second.childNodes.length;i++){
@@ -19,7 +19,7 @@
 // console.log("final array",arr);
 
 
-// const sect = document.getElementById("sec");
+// const sect = document.getElementById("sec"); //second
 // console.log(sect.childNodes);
 
 // let newstr ="";
@@ -36,7 +36,7 @@
 // console.log("final",newstr);
 
 
-// function elementnode(){
+// function elementnode(){ //third
 //   const sect = document.getElementById("sec");
 //   for(let i=0;i<=sect.childNodes.length;i++){
 //     const node = sect.childNodes[i];
@@ -48,7 +48,7 @@
 //   }
 // }
 
-// let calling = elementnode();
+let calling = elementnode(); //fourth
 
 
 function removing (){
